@@ -4,7 +4,7 @@ Herramientas internas — investigación de mercado y validación de producto.
 
 ## Radar de Nichos (PEV)
 
-Wizard guiado paso a paso para espionaje/validación de nichos. Ver `SPEC.md` para el detalle completo de fases, reglas y decisiones de arquitectura.
+Wizard guiado paso a paso para espionaje/validación de nichos. Ver `SPEC_RADARDENICHOS.md` para el detalle completo de fases, reglas y decisiones de arquitectura.
 
 ### Setup local
 
