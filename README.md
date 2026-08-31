@@ -23,4 +23,6 @@ Proyecto pensado para Vercel (hosting gratuito). Variables de entorno necesarias
 - `ANTHROPIC_API_KEY`
 - `KV_REST_API_URL` / `KV_REST_API_TOKEN` (al conectar un KV Store)
 
+Si el proyecto en Vercel se importó antes de que este código existiera en `main`, verifica en **Settings → General → Build and Development Settings** que el "Framework Preset" quede en **Next.js** (si se importó sin detectar el framework, queda en "Other" y el deploy falla buscando una carpeta `public`).
+
 Estado: PR #1 abierto con el MVP en la rama `claude/radar-nichos-mvp-approach-n5rmkv`, en revisión antes de mergear a `main`.
