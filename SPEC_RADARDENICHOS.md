@@ -7,7 +7,7 @@ Fusiona la metodología PEV (Aceleradora) con el framework de Micro Apps (Andrea
 
 ## Qué es
 
-Herramienta interna de uso personal (Fercha, sin multiusuario) que **guía paso a paso** el proceso de espionaje → validación → modelado de nicho, en vez de intentar automatizar fuentes de datos que no se pueden automatizar de forma confiable (Meta Ads Library comercial, SimilarWeb, redes sociales — ver `docs/decisiones-tecnicas.md`).
+Herramienta interna de uso personal (Fercha, sin multiusuario) que **guía paso a paso** el proceso de espionaje → validación → modelado de nicho, en vez de intentar automatizar fuentes de datos que no se pueden automatizar de forma confiable (Meta Ads Library comercial, SimilarWeb, redes sociales — detalle de esa evaluación más abajo, en "Fuentes de datos").
 
 La app no reemplaza el trabajo de buscar información: te dice exactamente qué buscar y dónde en cada paso, tú pegas lo que encuentras, y Claude hace el análisis/síntesis usando las reglas fijas de la metodología.
 

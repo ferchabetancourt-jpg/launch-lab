@@ -4,6 +4,8 @@ Herramientas internas — investigación de mercado y validación de producto.
 
 ## Radar de Nichos (PEV)
 
+🔸 **EN PAUSA desde el 19 septiembre 2026** — código y spec completos, falta solo verificar el deploy en Vercel. Ver `PENDIENTES_RADARDENICHOS.md` antes de retomar.
+
 Wizard guiado paso a paso para espionaje/validación de nichos. Ver `SPEC_RADARDENICHOS.md` para el detalle completo de fases, reglas y decisiones de arquitectura.
 
 ### Setup local
@@ -25,4 +27,4 @@ Proyecto pensado para Vercel (hosting gratuito). Variables de entorno necesarias
 
 Si el proyecto en Vercel se importó antes de que este código existiera en `main`, verifica en **Settings → General → Build and Development Settings** que el "Framework Preset" quede en **Next.js** (si se importó sin detectar el framework, queda en "Other" y el deploy falla buscando una carpeta `public`).
 
-Estado: PR #1 abierto con el MVP en la rama `claude/radar-nichos-mvp-approach-n5rmkv`, en revisión antes de mergear a `main`.
+PR #1 abierto con el MVP en la rama `claude/radar-nichos-mvp-approach-n5rmkv`, en revisión antes de mergear a `main`. Detalle completo del estado actual y próximos pasos en `PENDIENTES_RADARDENICHOS.md`.
